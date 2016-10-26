@@ -1,0 +1,178 @@
+
+body {
+
+	background-color: #ffffff;
+	
+}
+
+.wrapper {
+
+	width: 1024px;
+	margin: 0 auto;
+}
+
+
+/****************  Header/Nav  ************/
+
+.logo {
+
+	margin-left: 280px;
+
+}
+
+
+.navlist li {
+
+	list-style-type: none;
+	display: inline;
+	margin-left: 50px;
+	font-size: 16px;
+	margin-top: 10px;
+}
+
+
+.navlist li a:link {
+
+	color: white;
+	text-decoration: none;
+	font-family: 'Raleway', sans-serif;
+}
+
+
+.navlist li a:visited {
+
+	color: white;
+	
+}
+
+.navlist li a:hover {
+
+	color: #302d29;
+	
+}
+
+.backgroundImage {
+
+	padding-top: 30px;
+	width: 1024px;
+	background-repeat: no-repeat;
+}
+
+.centerBox {
+
+	border-style: solid; 5px;
+	border-color: white;
+	height: 262px;
+	width: 614px;
+	margin: 80px 0 0 200px;
+	padding-top: 15px;
+	padding-bottom: 20px;
+
+}
+
+
+.pageTitle h1 {
+
+	font-size: 45px;
+	font-family: 'Julius Sans One', sans-serif;
+	font-weight: 100;
+	font-style: normal;
+	color: white;
+	text-align: center;
+	margin-bottom: 3px;
+}
+
+.underTitle h4{
+	
+	font-family: 'Cormorant Upright', serif;
+	color: white;
+	text-align: center;
+	font-size: 30px;
+	margin-top: 0px;
+	margin-bottom: 25px;
+	
+}
+
+/****************    Footer  ************/
+
+
+.footer {
+
+	background-color: black;
+	width: 1024px;
+	height: 80px;
+}
+
+
+button {
+
+	
+    border: solid 1.0px;
+    background-color: black;
+    color: white;
+    padding: 13px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    border-radius: 8px;
+    margin-top: 21px;
+    margin-left: 30px;
+}
+
+
+button:hover {
+
+	color: #9cc1d1;
+
+}
+
+.footer p {
+
+	color: white;
+	margin-top: 0;
+	font-size: 8px;
+	margin-left: 450px;
+	
+}
+
+
+.social {
+
+	float: right;
+	margin-top: 25px;
+
+}
+
+.facebook {
+
+	margin-right: 30px;
+}
+
+
+.instagram {
+
+	margin-right: 10px;
+}
+
+
+/****************    Body  ************/
+
+
+
+.mainP {
+
+	color: white;
+	font-family: 'Raleway', sans-serif;
+	font-size: 16px;
+	letter-spacing: 1.5px;
+}
+
+h4 {
+	font-family: 'Cormorant Upright', serif;
+	color: white;
+	text-align: center;
+	
+
+}
+
